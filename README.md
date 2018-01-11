@@ -7,7 +7,7 @@
 * 氏名　江口　弥生(yayoi.eguchi@gmail.com) 122-151
 * 氏名　加藤　夕佳（katoyuka7418@gmail.com) 62-91
 * 氏名　中井　美沙(misasnsregis@gmail.com) 92-121
-* 氏名　小松　美凛　(reo0207waon1227waon@gamil.com) 152-162
+* 氏名　小松　美凛　(reo0207waon1227waon@gmail.com) 152-162
 ## 2017年データ作業チーム
 * 谷中 大翔(hirotooo777@gmail.com)
 * 山田 和哉(316originaloveee@gmail.com)
