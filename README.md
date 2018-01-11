@@ -2,7 +2,7 @@
 
 ## 2016年データ作業チーム
 * 氏名　渡邉　杏菜(ansz.508@gmai.com) 31-60
-* 氏名　大阪　喜佐(51kisa8560@gmai.com)
+* 氏名　大阪　喜佐(51kisa8560@gmai.com) 戦力外
 * 氏名　大槻　純萌(a.13e.pon@gmai.com) 1-30
 * 氏名　江口　弥生(yayoi.eguchi@gmai.com) 121-150
 * 氏名　加藤　夕佳（katoyuka7418@gmail.com) 61-90
