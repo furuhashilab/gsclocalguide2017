@@ -2,6 +2,7 @@
 
 ## 2016年データ作業チーム
 https://github.com/furuhashilab/gsclocalguide2017/issues/1
+
 [MAP](https://fusiontables.google.com/DataSource?docid=1IOiund7Osebk0BzJKNGyTnlBQWkOj6R5XyjM_p6y#map:id=3)
 
 * 渡邉　杏菜(ansz.508@gmail.com) 32-61
@@ -14,6 +15,7 @@ https://github.com/furuhashilab/gsclocalguide2017/issues/1
 
 ## 2017年データ作業チーム
 https://github.com/furuhashilab/gsclocalguide2017/issues/2
+
 [MAP]()
 
 * 谷中 大翔(hirotooo777@gmail.com)
